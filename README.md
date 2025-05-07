@@ -2,6 +2,8 @@
 
 This project analyzes the reliability of Ohio's natural gas production and how it affects residential consumers. Using publicly available data from the U.S. Energy Information Administration (EIA.gov), I examined key trends in production, pricing, and consumption patterns over recent years.
 
+#### Dashboard https://public.tableau.com/app/profile/tiffin.brown1595/viz/Energy_17465886307590/DashboardSummary
+
 ### 🔍 Project Focus
 The analysis uncovers a concerning trend: while Ohio's natural gas production is gradually decreasing, residential natural gas prices are steadily increasing. This trend coincides with a growing demand for electric power, particularly as energy providers increasingly rely on natural gas to generate electricity and strengthen the power grid.
 
